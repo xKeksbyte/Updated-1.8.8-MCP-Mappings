@@ -34,8 +34,8 @@ field_174895_b,dataValues,0,
 field_148036_j,time,0,
 field_148037_k,lastStamp,0,
 field_148016_p,blendingMode,0,
-field_181125_e,CLIENT_EPOLL_EVENTLOOP,2
-field_181680_j,readWriteLock,2
+field_181125_e,CLIENT_EPOLL_EVENTLOOP,2,
+field_181680_j,readWriteLock,2,
 field_149069_g,rotating,2,
 field_181752_a,frames,0,"An array with the last 240 frames"
 field_181753_b,lastIndex,0,"The last index used when 240 frames have been set"
