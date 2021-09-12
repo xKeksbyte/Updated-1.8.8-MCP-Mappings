@@ -166,9 +166,9 @@ field_178798_d,renderType,2,
 field_147490_S,blockEventQueue,2,
 field_146335_h,worldSeedField,0,
 field_146336_i,saveDirName,0,
-field_146337_w,hardCoreMode,0,"Set to true when "hardcore" is the currently-selected gamemode"
+field_146337_w,hardCoreMode,0,"Set to true when (hardcore) is the currently-selected gamemode"
 field_146338_v,bonusChestEnabled,0,
-field_146339_u,allowCheatsWasSetByUser,0,"User explicitly clicked "Allow Cheats" at some point\nPrevents value changes due to changing game mode"
+field_146339_u,allowCheatsWasSetByUser,0,"User explicitly clicked (Allow Cheats) at some point\nPrevents value changes due to changing game mode"
 field_146340_t,allowCheats,0,"If cheats are allowed"
 field_146341_s,generateStructuresEnabled,0,
 field_146344_y,inMoreWorldOptionsDisplay,0,
@@ -187,8 +187,8 @@ field_92019_w,openGLWarningY2,0,"Bottom y coordinate of the OpenGL warning"
 field_92020_v,openGLWarningX2,0,"Right x coordinate of the OpenGL warning"
 field_92021_u,openGLWarningY1,0,"Top y coordinate of the OpenGL warning"
 field_92022_t,openGLWarningX1,0,"Left x coordinate of the OpenGL warning"
-field_92023_s,openGLWarning1Width,0,Width of openGLWarning1"
-field_92024_r,openGLWarning2Width,0,Width of openGLWarning2"
+field_92023_s,openGLWarning1Width,0,"Width of openGLWarning1"
+field_92024_r,openGLWarning2Width,0,"Width of openGLWarning2"
 field_147073_u,ticks,0,
 field_175310_f,PRESETS,0,
 field_175311_g,list,0,
