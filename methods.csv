@@ -33,7 +33,7 @@ func_154325_a,drawCenteredString,0,
 func_154322_b,drawString,0,
 func_175207_a,setGuiResponder,0,"Sets the GuiResponder associated with this text box."
 func_146197_a,getNthWordFromPosWS,0,"Like getNthWordFromPos (which wraps this), but adds option for skipping consecutive spaces"
-func_178095_a renderDefaultArm 0,"Drawing the default arm without any item"
+func_178095_a renderDefaultArm,0,"Drawing the default arm without any item"
 func_154321_a,getProxy,0,
 func_154329_h,getFontHeight,0,
 func_154326_c,getStringWidth,0,
