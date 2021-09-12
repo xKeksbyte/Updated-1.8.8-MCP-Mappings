@@ -12,8 +12,8 @@ field_92019_w,openGLWarningY2,0,"Bottom y coordinate of the OpenGL warning"
 field_92020_v,openGLWarningX2,0,"Right x coordinate of the OpenGL warning"
 field_92021_u,openGLWarningY1,0,"Top y coordinate of the OpenGL warning"
 field_92022_t,openGLWarningX1,0,"Left x coordinate of the OpenGL warning"
-field_92023_s,openGLWarning1Width,0,Width of openGLWarning1"
-field_92024_r,openGLWarning2Width,0,Width of openGLWarning2"
+field_92023_s,openGLWarning1Width,0,"Width of openGLWarning1"
+field_92024_r,openGLWarning2Width,0,"Width of openGLWarning2"
 field_147073_u,ticks,0,
 field_175310_f,PRESETS,0,
 field_175311_g,list,0,
