@@ -1,4 +1,79 @@
 searge,name,side,desc
+field_181038_N,profileProperties,0,"The player's GameProfile properties"
+field_181541_X,connectedToRealms,0,"True if the player is connected to a realms server"
+field_181542_y,frameTimer,0,"The FrameTimer's instance"
+field_181543_z,startNanoTime,0,"Time in nanoseconds of when the class is loaded"
+field_181083_K,blockMapColor,2,"The Block's MapColor"
+field_178714_b,BODY_TEXS,0,
+field_178715_c,BODY_COUNT,0,
+field_178716_a,BODY_SIZES,0,
+field_96138_a,MORE_INFO_TEXT,0,
+field_92019_w,openGLWarningY2,0,"Bottom y coordinate of the OpenGL warning"
+field_92020_v,openGLWarningX2,0,"Right x coordinate of the OpenGL warning"
+field_92021_u,openGLWarningY1,0,"Top y coordinate of the OpenGL warning"
+field_92022_t,openGLWarningX1,0,"Left x coordinate of the OpenGL warning"
+field_92023_s,openGLWarning1Width,0,Width of openGLWarning1"
+field_92024_r,openGLWarning2Width,0,Width of openGLWarning2"
+field_147073_u,ticks,0,
+field_175310_f,PRESETS,0,
+field_175311_g,list,0,
+field_175316_h,select,0
+field_175317_i,export,0,
+field_175315_a,title,0,
+field_175312_t,listText,0,
+field_175313_s,shareText,0,
+field_175800_f,spacing,2,
+field_175801_g,separation,2,
+field_175802_d,WATER_BIOMES,2,
+field_175803_h,MONUMENT_ENEMIES,2,
+field_110723_a,knotRenderer,0,
+field_147206_b,profileStartTime,2,"The time (in milliseconds) that profiling was started"
+field_147207_c,profileStartTick,2,"The tick number that profiling was started on"
+field_111100_b,z,2,
+field_111101_a,x,2,
+field_75318_f,seeTime,2,
+field_96561_g,attackIntervalMin,2,
+field_96562_i,attackRadius,2,
+field_179444_a,LOGGER,2,
+field_179442_b,mob,2,
+field_179443_c,predicate,2,
+field_179439_f,classToCheck,2,
+field_179440_d,sorter,2,
+field_179441_e,target,2,
+field_178152_f,cookTime,2,
+field_178153_g,totalCookTime,2,
+field_178154_h,furnaceBurnTime,2,
+field_178155_i,currentItemBurnTime,2,
+field_75228_b,removeCount,2,
+field_75231_g,removeCount,2,
+field_175822_f,WATER,2,
+field_175823_g,GRIDROOM_SOURCE_INDEX,2,
+field_175824_d,DOT_DECO_DATA,2,
+field_175825_e,SEA_LANTERN,2,
+field_175826_b,BRICKS_PRISMARINE,2,
+field_175827_c,DARK_PRISMARINE,2,
+field_175828_a,ROUGH_PRISMARINE,2,
+field_175831_h,GRIDROOM_TOP_CONNECT_INDEX,2,,
+field_175832_i,GRIDROOM_LEFTWING_CONNECT_INDEX,2,
+field_175829_j,GRIDROOM_RIGHTWING_CONNECT_INDEX,2,
+field_178711_b,upperMouth,0,
+field_178712_c,lowerMouth,0,
+field_175965_b,connections,2,
+field_175966_c,hasOpening,2,
+field_175967_a,index,2,
+field_175962_f,scanIndex,2,
+field_175963_d,claimed,2,
+field_175964_e,isSource,2
+field_175830_k,roomDefinition,2,
+field_175843_q,childPieces,2,
+field_175844_p,coreRoom,2,
+field_175845_o,sourceRoom,2
+field_175833_o,mainDesign,2,
+field_74993_a,steps,2,
+field_74995_d,rightLow,2,
+field_74996_b,leftLow,2,
+field_74997_c,leftHigh,2,
+field_74999_h,rightHigh,2,
 field_100013_f,isPotionDurationMax,0,"True if potion effect duration is at maximum, false otherwise."
 field_104003_g,isAggressive,2,
 field_104024_v,openGLWarningLink,0,Link to the Mojang Support about minimum requirements
