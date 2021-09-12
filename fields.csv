@@ -56,7 +56,7 @@ field_175386_A,cachedComponents,0,
 field_175387_B,cachedPage,0,
 field_146151_o,isForward,0,
 field_175298_s,listLines,0,
-field_175300_s,savedGameMode,0,"Used to save away the game mode when the current "debug" world type is chosen (forcing it to spectator mode)"
+field_175300_s,savedGameMode,0,"Used to save away the game mode when the current debug world type is chosen (forcing it to spectator mode)"
 field_179208_a,alphaTest,0,
 field_179189_b,face,0,
 field_179190_c,mode,0,
