@@ -63,11 +63,11 @@ field_175966_c,hasOpening,2,
 field_175967_a,index,2,
 field_175962_f,scanIndex,2,
 field_175963_d,claimed,2,
-field_175964_e,isSource,2
+field_175964_e,isSource,2,
 field_175830_k,roomDefinition,2,
 field_175843_q,childPieces,2,
 field_175844_p,coreRoom,2,
-field_175845_o,sourceRoom,2
+field_175845_o,sourceRoom,2,
 field_175833_o,mainDesign,2,
 field_74993_a,steps,2,
 field_74995_d,rightLow,2,
@@ -76,15 +76,15 @@ field_74997_c,leftHigh,2,
 field_74999_h,rightHigh,2,
 field_100013_f,isPotionDurationMax,0,"True if potion effect duration is at maximum, false otherwise."
 field_104003_g,isAggressive,2,
-field_104024_v,openGLWarningLink,0,Link to the Mojang Support about minimum requirements
-field_104025_t,threadLock,0,The Object object utilized as a thread lock when performing non thread-safe operations
+field_104024_v,openGLWarningLink,0,"Link to the Mojang Support about minimum requirements"
+field_104025_t,threadLock,0,"The Object object utilized as a thread lock when performing non thread-safe operations"
 field_104057_T,isGamemodeForced,2,
 field_110126_a,FOOTPRINT_TEXTURE,0,
 field_110127_a,EXPLOSION_TEXTURE,0,
 field_110150_bn,lastAttacker,2,
 field_110151_bq,absorptionAmount,2,
 field_110152_bk,newPosZ,2,
-field_110153_bc,lastDamage,2,Damage taken in the last hit. Mobs are resistant to damage less than this for a short time after taking damage.
+field_110153_bc,lastDamage,2,"Damage taken in the last hit. Mobs are resistant to damage less than this for a short time after taking damage."
 field_110154_aX,onGroundSpeedFactor,2,
 field_110155_d,attributeMap,2,
 field_110156_b,sprintingSpeedBoostModifierUUID,2,
@@ -99,7 +99,7 @@ field_110180_bt,isMovementAITaskSet,2,
 field_110181_i,FLEEING_SPEED_MODIFIER,2,
 field_110184_bp,MODIFIER_UUID,2,
 field_110185_bq,MODIFIER,2,
-field_110186_bp,reinforcementChance,2,The attribute which determines the chance that this mob will spawn reinforcements
+field_110186_bp,reinforcementChance,2,"The attribute which determines the chance that this mob will spawn reinforcements"
 field_110187_bq,babySpeedBoostUUID,2,
 field_110188_br,babySpeedBoostModifier,2,
 field_110189_bq,ATTACK_SPEED_BOOST_MODIFIER_UUID,2,
